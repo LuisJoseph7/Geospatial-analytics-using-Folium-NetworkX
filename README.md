@@ -43,5 +43,5 @@ This project demonstrates the application of **geospatial analytics** and **netw
 ## Author
 
 **Luis Rivero** – Business Intelligence & Data Science Specialist  
-[LinkedIn](www.linkedin.com/in/luis-joseph-rivero-salguedo-b73878aa) | [GitHub](https://github.com/LuisJoseph7)
+[LinkedIn](https://www.linkedin.com/in/luis-joseph-rivero-salguedo-b73878aa) | [GitHub](https://github.com/LuisJoseph7)
 

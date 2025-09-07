@@ -20,7 +20,7 @@ This project demonstrates the application of **geospatial analytics** and **netw
 
 ## Workflow
 
-1. **Data Collection** – Gather spatial and network data from public sources or internal datasets.  
+1. **Data Collection** – Gather spatial and network data from public sources datasets.  
 2. **Data Cleaning & Preparation** – Handle missing values, transform coordinates, and structure network edges/nodes.  
 3. **Exploratory Analysis** – Identify patterns, clusters, and key nodes in the network.  
 4. **Visualization**  
